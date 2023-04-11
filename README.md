@@ -1,6 +1,6 @@
 # lecture_18_JS_операторы_сравнения  
 
-#  [Задачи ](https://github.com/schoolteacherMP/lecture_18_JS/blob/main/tasks.md)  
+#  [Задачи ](https://github.com/schoolteacherMP/lecture_18-19_JS_comparison_operators/blob/main/tasks.md)  
 
 - Операторы сравнения возвращают значения `логического типа`.   
 - Строки сравниваются посимвольно в лексикографическом порядке.  
