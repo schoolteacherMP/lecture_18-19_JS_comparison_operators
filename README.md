@@ -10,4 +10,4 @@
 
 # lecture_19_JS_условное_ветвление  
 
-#  [Задачи ](https://github.com/schoolteacherMP/lecture_18_JS_comparison_operators/blob/main/tasks19.md)  
+#  [Задачи ](https://github.com/schoolteacherMP/lecture_18-19_JS_comparison_operators/blob/main/tasks19.md)  
